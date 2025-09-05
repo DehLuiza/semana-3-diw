@@ -10,3 +10,4 @@ Informações sobre os filmes, livros e personagens;
 Cards com destaques de conteúdos ( trailers, curiosidades);
 Estrutura semelhante a um site moderno de mídia, com menu lateral, topo, cards de conteúdo e rodapé.
 O objetivo é oferecer uma experiência imersiva, onde fãs podem navegar de forma simples, em qualquer dispositivo (celular, tablet ou computador).
+![alt text](image.png)
